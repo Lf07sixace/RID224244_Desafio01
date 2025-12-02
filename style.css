@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    font: "inter";
+}
+
+#titulo-menu-superior {
+    font-size: 60px;
+    color: #FFFFFF;
+    margin-top: 75px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    font-family: 'Inter';
+   
+}
+
+#texto-menu-superior {
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top: 5px;
+    margin-bottom: 55px;
+    margin-left: 25px;
+    font-family: 'Inter';
+}
+#menu-superior {
+    background-color: #303030;
+    padding: 50px;
+}
+
+#menu-informacional{
+    background-color:#F9F9F9;
+     display: grid;
+    grid-auto-flow: column;
+    columns: column;
+}
+
+.titulo-informativo{
+    font-size: 50px;
+    color: #000000;
+    font-family: 'Inter';
+    margin-left: 150px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    
+}
+
+#empreendimentos{
+    font-size: 25px;
+    color: #000000;
+    font-family: 'Inter';
+    margin-top: 160px;
+    margin-left: -230px;
+    margin-bottom: 110px;
+}
+
+#mercado{
+    font-size: 25px;
+    color: #000000;
+    font-family: 'Inter';
+    margin-top: 160px;
+    margin-left: -200px;
+    margin-bottom: 110px;
+}
+
+#projetos{
+    font-size: 25px;
+    color: #000000;
+    font-family: 'Inter';
+    margin-top: 160px;
+    margin-left: -380px;
+    margin-bottom: 110px;
+}
+
+#menu-imagens{
+padding: 100px;
+
+}
+#titulo-imagens{
+font-family: "Inter";
+font-size: 40px;
+font-style: light;
+color: #000000;
+padding: 25px; 
+margin-top: 200px;
+}
+
+#texto-imagens{
+font-family: "Inter";
+font-size: 24px;
+font-style: light;
+color: #000000;
+padding: 25px;
+
+}
+
+#imagem{
+ margin-left: 1000px;
+ margin-top: -400px;
+}
+
+#formulario{
+   background-color: #303030;
+   text-align: center;
+   padding: 100px;
+}
+#titulo-formulario{
+    font-size: 32px;
+    font-family: "Inter";
+    color: #FFFFFF;
+}
+
+input{
+width: 375px;
+height: 50px;
+background-color:#FFFFFF;
+margin: 15px;
+margin-top: 50px;
+border: 0px;
+border-radius: 5px;
+padding-left: 20px;
+font-family: "Raleway";
+font-weight: bolder;
+font-size: 15px;
+}
+
+button{
+   background-color:#C07212;
+    height: 55px;
+    width: 250px;
+    color:#FFFFFF;
+    border: 0px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-top: 60px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 25px;
+    font-family: "Raleway";
+    font-style: "light";
+}
+
+button:hover{
+    background-color: #C07212;
+    color: white;
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #05103081;
+    transition-duration: 0.5s;
+}
