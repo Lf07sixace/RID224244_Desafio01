@@ -1,0 +1,182 @@
+*{
+    margin: 0px;
+    font: "inter";
+}
+
+#titulo-menu-superior {
+    font-size: 60px;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    margin-left: 62px;
+    padding-top: 206px;
+}
+
+#texto-menu-superior {
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    margin-left: 62px;
+    padding-top: 25px;
+    padding-bottom: 206px;
+}
+#menu-superior {
+    background: #303030;
+}
+
+#menu-informacional{
+    margin: 0;
+    font-family: 'Inter';
+    background-color: #F9F9F9;
+    display: flex;
+    box-sizing: border-box;
+}
+
+#primeiro{
+    font-size: 40px;
+    color: #000000;
+    font-family: 'Inter';
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+#segundo{
+    font-size: 40px;
+    color: #000000;
+    font-family: 'Inter';
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+#terceiro{
+    font-size: 40px;
+    color: #000000;
+    font-family: 'Inter';
+    margin-left: 180px;
+    margin-top: 50px;
+}
+
+
+#empreendimentos{
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Inter';
+    margin-left: -75px;
+    margin-top: 100px;
+    padding-bottom: 80px;
+}
+
+#mercado{
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Inter';
+    margin-top: 100px;
+    padding-bottom: 80px;
+    margin-left: -53px;
+}
+
+#projetos{
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Inter';
+    margin-top: 100px;
+    padding-bottom: 80px;
+    margin-left: -195px;
+}
+
+
+.menu-imagens{
+    height: 774px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#titulo-imagens{
+   font-family: "Inter";
+   font-size: 40px;
+   font-style: light;
+   color: #000000;
+   width: 735px;
+   margin-left: 77px;
+}
+
+#texto-imagens{
+   font-family: "Inter";
+   font-size: 24px;
+   color: #000000;
+   width: 735px;
+   height: 161px;
+   margin-left: 77px;
+   margin-top: 50px;
+}
+
+#imagem{
+   width: 510px;
+   height: 605px;
+   margin-right: 50px;
+}
+
+#formulario{
+   background-color: #303030;
+   text-align: center;
+   height: 638px;
+}
+#titulo-formulario{
+   font-size: 32px;
+   font-family: "Inter";
+   color: #FFFFFF;
+   padding: 78px;
+   padding-top:100px;
+}
+
+#num1{
+   background-color:#FFFFFF;
+   border: 0px;
+   border-radius: 10px;
+   padding-left: 30px;
+   font-family: "Raleway";
+   font-weight: bolder;
+   font-size: 20px;
+   width: 450px;
+   height: 62px;
+   margin-top: -20px;
+
+
+}
+
+#num2{
+   background-color:#FFFFFF;
+   border: 0px;
+   border-radius: 10px;
+   padding-left: 30px;
+   font-family: "Raleway";
+   font-weight: bolder;
+   font-size: 20px;
+   width: 450px;
+   height: 62px;
+   margin-top: 50px;
+}
+
+button{
+   background-color:#C07212;
+   color:#FFFFFF;
+   border: 0px;
+   border-radius: 10px;
+   font-weight: bold;
+   cursor: pointer;
+   font-size: 30px;
+   font-family: "Raleway";
+   font-style: "light";
+   width: 286px;
+   height: 70px;
+   margin-top: 80px;
+}
+
+button:hover{
+   background-color: #C07212;
+   color: white;
+   transform: translateY(-7px);
+   box-shadow: 0px 15px 20px #05103081;
+   transition-duration: 0.5s;
+}
+
